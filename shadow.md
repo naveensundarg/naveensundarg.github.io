@@ -1,5 +1,5 @@
 
-## Shadow Engine
+## Shadow Engine: Unified Higher-order Reasoner, Planner and Adjudicator
 
 Shadow Engine is a system composed of the following components that work with representations in a quantified modal logic. 
 
